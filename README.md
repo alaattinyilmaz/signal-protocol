@@ -11,6 +11,6 @@ The project has three phases:
 
 • Phase III Developing software to communicate with other clients
 
-# details
+# specifications
 
-Please click [here](https://github.com/alaattinyilmaz/signal-protocol/blob/main/CS411_507_Fall2021_Term_Project.pdf) link to read all spesifications.
+Please click [here](https://github.com/alaattinyilmaz/signal-protocol/blob/main/specifications.pdf) link to read all spesifications.
